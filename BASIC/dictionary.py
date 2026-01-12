@@ -15,10 +15,6 @@ d["city"] = "Bangalore"
 d["age"] = 21
 print("After Add & Update:", d)
 
-#  Deleting Elements
-del d["course"]
-print("After Deletion:", d)
-
 #  Membership Test (Keys only)
 print("Is 'name' key present?", "name" in d)
 
@@ -50,4 +46,5 @@ print("CS Marks:", student["marks"]["cs"])
 
 #  Clearing Dictionary
 d.clear()
+
 print("After clear:", d)
