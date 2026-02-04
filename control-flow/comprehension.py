@@ -9,3 +9,4 @@ population={
 }
 b={keys:value for keys,value in population.items() if value<=200} # dictionary comprehension
 print(b) 
+
