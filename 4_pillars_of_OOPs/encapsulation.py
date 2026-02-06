@@ -15,4 +15,5 @@ class bank:
 a=bank(123,30000)
 a.check_balance()
 a.withdraw(3000)
+
 a.deposite(20)
