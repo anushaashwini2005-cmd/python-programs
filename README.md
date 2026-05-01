@@ -18,6 +18,7 @@ Topics Covered
 - Practice Programs
 
 Purpose
+
 The purpose of this repository is to track my Python learning journey, improve coding skills, and build a strong programming foundation.
 
 How to Run
@@ -27,4 +28,5 @@ How to Run
 3. Run any file using: python filename.py
 
 Author
+
 Anusha N
