@@ -1,6 +1,6 @@
 def save_book(title, price):
     try:
-        # Use 'a' for append mode
+        # Using 'a' for append mode
         with open("library_db.txt", "a") as f:
             f.write(f"{title}, {price}\n")
     except PermissionError:
@@ -34,9 +34,4 @@ def main():
             print("System check: Ready for next entry.")
 
 if __name__ == "__main__":
-    main()
-# Add this at the bottom of your script
-save_book("Moby Dick", 12.50)
-save_book("1984", 9.99)
-
-print("Check your folder for library_db.txt!")   
+    main()  
