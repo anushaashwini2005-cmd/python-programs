@@ -1,5 +1,3 @@
-# All File Handling Operations in Python
-
 # 1. Create and Write File
 file = open("demo.txt", "w")
 file.write("Hello Python\n")
