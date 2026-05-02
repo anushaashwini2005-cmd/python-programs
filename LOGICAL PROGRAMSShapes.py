@@ -1,4 +1,5 @@
 rows=int(input("rows: "))
+
 # prints the box like structure
 for i in range(rows):
     print("*" * rows)
