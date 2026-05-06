@@ -26,7 +26,3 @@ How to Run
 1. Install Python on your system
 2. Download or clone this repository
 3. Run any file using: python filename.py
-
-Author
-
-Anusha N
