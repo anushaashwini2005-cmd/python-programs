@@ -5,6 +5,7 @@ This repository contains all the Python programs I learned and practiced from sc
 📌 Topics Covered
 
 -✅ Variables and Data Types
+
 -✅ Input / Output
 -✅ Conditional Statements
 -✅ Loops
